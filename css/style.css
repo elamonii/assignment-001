@@ -218,8 +218,10 @@ h1 {
 
 .subscribe-box-form {
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
     display: flex;
+    background-color: antiquewhite;
+    padding: 100px;
 }
 
 .subscribe-box-form input {
@@ -237,12 +239,8 @@ h1 {
 }
 
 .subscribe-box-button {
-    /* align-items: center; */
-    padding: 20px 10px 20px 15px;
+    padding: 20px 20px 20px 20px;
     border-radius: 0;
-    /* justify-content: center; */
-    /* margin-top: 25px; */
-    /* margin-bottom: 100px; */
 }
 
 footer {
